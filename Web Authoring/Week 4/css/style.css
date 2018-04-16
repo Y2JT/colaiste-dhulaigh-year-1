@@ -1,0 +1,33 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+				display: block;}
+		
+				figure {
+				float: left;
+				width: 260px;
+				height: 200px;
+				padding: 55px;
+				margin: 20px;
+				border: 3px solid #008B8B;
+				border-style: ridge;
+				}
+
+			       figcaption {
+				font-size: 90%;
+				text-align: left;
+				}
+
+				figure2 {
+				float: right;
+				width: 100px;
+				height: 100px;
+				padding: 5px;
+				margin: 3px;
+				}
+
+				figure3 {
+				float: right;
+				width: 100px;
+				height: 100px;
+				padding: 5px;
+				margin: 3px;
+				}

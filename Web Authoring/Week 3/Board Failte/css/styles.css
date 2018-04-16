@@ -1,0 +1,48 @@
+
+			body {
+				color: #C0C0C;
+				margin: 0px;
+                                background-color: grey;
+                                background-repeat: no-repeat;
+                                background-attachment: fixed;
+                                background-size: 100% 100%;
+                                
+				}
+                         header {
+				height: 120px;
+                                background-color: #D8D8D8 ;
+                                font-family:verdana;
+                                text-align: center;
+				}
+			
+			    ul {
+				border: 50px;
+                                border: solid;
+                                
+				}
+			    li {
+				display: inline;
+				margin: 70px;
+                                font-family: serif;
+                                font-size: 17px; 
+                                                           
+                                
+                                
+                                }
+
+			      a:link {
+                                 color: red;
+                                 text-decoration: none;
+                                }
+                               
+                               a:hover {
+                                 color: DarkGreen;
+                                       }
+                               a:visited{
+                                  color: black;
+                                        }
+                             section{ float right;
+                                      width 10px;
+                                      height 50px:
+                                        }
+

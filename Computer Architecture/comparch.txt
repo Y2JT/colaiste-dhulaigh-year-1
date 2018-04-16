@@ -1,0 +1,14 @@
+
+
+Building for Web Developers:
+http://configure.us.dell.com/dellstore/config.aspx?c=us&cs=04&fb=1&l=en&model_id=xps-8700&oc=smx8700w7p104r5&s=bsd&vw=classic
+
+Dimensions/Ports:
+http://www.dell.com/ie/p/xps-8700/pd
+
+
+Building for Office:
+http://configure.us.dell.com/dellstore/config.aspx?c=us&cs=04&fb=1&l=en&model_id=inspiron-3847-desktop&oc=smi3847mtw7p2065&s=bsd&vw=classic
+
+Dimensions/Ports:
+http://www.dell.com/us/p/inspiron-3647-small-desktop/pd

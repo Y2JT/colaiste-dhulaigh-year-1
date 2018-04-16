@@ -1,0 +1,85 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Tourism Ireland</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href=../css/main.css rel="stylesheet" type="text/css" id="main-css" />
+<meta http-equiv="description" content="">
+<meta http-equiv="keywords" content="">
+</head>
+<body class="index">	
+<!-- header -->
+<div id="header-wrapper">
+<div id="header" class="content">
+<div class="logo">
+<img id="header-logo" alt="Tourism Ireland" src="../images/logo.png" /></a>
+</div>
+<ul id="header-menu">
+<li class="first"></li>
+<li class="last"></li>
+</ul>	</div>
+</div>
+<!-- main menu -->
+<div id="top-wrapper">
+<div id="top" class="content">
+  <ul id="top-menu">
+  <li class="first"><a href="index.html" rel="">Home</a></li>
+<li><!-- TemplateBeginEditable name="Link1" --><a href="cork.html">Cork</a><!-- TemplateEndEditable -->
+<li><!-- TemplateBeginEditable name="Link2" --><a href="dublin.html">Dublin</a><!-- TemplateEndEditable --></li>
+<li><!-- TemplateBeginEditable name="Link3" --><a href="galway.html">Galway</a><!-- TemplateEndEditable --></li>
+<li><!-- TemplateBeginEditable name="Link4" --><a href="tradbands.html">Traditional Bands</a><!-- TemplateEndEditable --></li>
+</ul>
+</div>
+</div>
+<div id="home-wrapper" class="content">
+<div id="fma-wrapper">
+<div id="fma" class="content">
+<h1><!-- TemplateBeginEditable name="EditRegion2" -->Traditional Irish Music<!-- TemplateEndEditable --></h1>
+</div>
+</div>
+<div id="home-wrapper">
+<div class="split-home content">
+<div class="column-one">
+<div id="featured-box" class="home-box">
+<div class="info">
+<div class="image"><!-- TemplateBeginEditable name="MusicInsPic1" --><img src="/images/guitar1.jpg" alt="Guitar" name="" width="140" height="140"></a><!-- TemplateEndEditable --></div>
+<div class="details" >
+<div class="name"><!-- TemplateBeginEditable name="MusicInsHeading1" -->Musical Instrument Heading<!-- TemplateEndEditable --></div>
+<div class="description"><!-- TemplateBeginEditable name="MusicIns1" -->
+  <p>Add infomation about whatever musical instrument is to the left (relevant to Ireland)</p>
+<!-- TemplateEndEditable --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="column-two">
+<div id="popular-box" class="home-box">
+<h2>Heading</h2>
+<div class="info">
+<div class="image"><!-- TemplateBeginEditable name="FestivalImage1" --><img src="/images/westcork.jpg" alt="Image 2" name="" width="140" height="140"></a><!-- TemplateEndEditable --></div>
+<div class="details" >
+<div class="name"><!-- TemplateBeginEditable name="FestivalHeading1" --><a href="#">Festival Name</a><!-- TemplateEndEditable --></div>
+<div class="description"><!-- TemplateBeginEditable name="FestivalInfo1" -->
+  <p> Info about an upcoming Festival (relevant to Ireland and closest date)</p>
+<!-- TemplateEndEditable --></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- info -->
+<div id="info-content" class="content">
+<h2>Traditional Irish Music</h2>
+<div id="lipsum">
+  <p>Traditional Irish music was once the most popular music in  Ireland. During the 20th century, new styles of music became more  popular.<br><br>Some of the earliest form of Irish music is designed for the  harp. This type of Irish music is from the 16th century, however, a  lot of Irish music was created in the last three hundred years. Irish music and  songs were not usually written down, instead, adults taught children how to  play the music by ear. Learning the music this way is called the oral  tradition. Edward Bunting was the first person to write down harp music, this  was during the Belfast Harper's Meeting in 1792.<br><br>A lot of traditional Irish music comes from European music.  Did you know the dance tune of the reel came from Scotland? Other European  music, like the polkas and waltzes, became part of the traditional Irish music  style.<br><br>Today, Irish music is very popular around the world.</p>
+</div>
+</div>
+</div>
+<!-- footer -->
+<div id="footer-wrapper">
+<p><a href="#">&copy; Joseph Tierney</a></p>
+</div>
+</body>
+</html>

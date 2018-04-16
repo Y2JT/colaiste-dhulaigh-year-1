@@ -1,0 +1,138 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Tunes - Store Anna</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link id="main-css" href="../css/main.css" rel="stylesheet" />
+<!-- TemplateBeginEditable name="head" -->
+<meta http-equiv="description" content="">
+<meta http-equiv="keywords" content="">
+<!-- TemplateEndEditable -->
+</head>
+<body class="products_results">	
+<!-- header -->
+<div id="header-wrapper">
+<div id="header" class="content">
+<div class="logo">
+<a href="#"><img id="header-logo" alt="My Site" src="../images/logo.png" /></a>
+</div>
+<ul id="header-menu">
+<li class="first"><a id="header-signin" href="#">Sign In</a></li>
+<li class="last"><a id="header-register" href="#">Register</a></li>
+</ul>	</div>
+</div>
+
+<!-- main menu -->
+<div id="top-wrapper">
+<div id="top" class="content">
+<div id="top-search">
+<form id="top-search-form" method="get" action="/products" >
+<input name="Search" type="submit" value="Search" id="top-search-submit" alt="Search" class="button" />
+<input type="text" name="S_ProductName" id="top-search-query" value="" placeholder="Search..." />
+<input name="Search" type="hidden" value="1" />
+</form>
+</div>
+<ul id="top-menu">
+<li class="first"><a href="#" rel="">Home</a></li>
+<li><a href="#">Products</a>
+<ul>
+<li class="first"><a href="#">Category 1</a>
+<ul>
+<li><a href="#">Subcategory 1</a></li>
+</ul>
+</li>
+<li><a href="#" target="">Category 2</a></li>
+<li><a href="#">Show All</a></li>
+</ul>
+</li>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div id="content-wrapper"><!-- TemplateBeginEditable name="MainContent" -->
+<div id="content" class="content">
+<div id="sidebar">
+<ul id="side-menu">
+<li class="first"><a href="#">Subnav</a>
+<ul id="side-menu-5938">
+<li class="first"><a href="#">Subnav Item</a></li>
+</ul>
+</li>
+<li class="last"><a href="#">Subnav </a>
+<ul id="side-menu-68085">
+<li class="first"><a href="#">Subnav Item </a></li>
+<li><a href="#">Subnav Item </a></li>
+<li><a href="#">Subnav Item</a></li>
+<li class="last"><a href="#">Subnav Item</a> </li>
+</ul>
+</li>
+<li class="first"><a href="#">Subnav</a>
+<ul id="side-menu-5938">
+<li class="first"><a href="#">Subnav Item</a></li>
+<li class="last"><a href="#">Subnav Item</a> </li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="page">
+<!-- pagination -->
+<div class="pagination top">
+<div class="previous"> <span class="disabled">&laquo; Previous</span> </div>
+<div class="pages"> Page: <a href="#" class="selected">1</a></div>
+<div class="next"> <span class="disabled">Next &raquo;</span> </div>
+</div>
+<!-- products -->
+<div class="pod product-list-item">
+<div class="image"> <a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a> </div>
+<div class="details" >
+<h3><a href="#">Product Name</a></h3>
+<div class="price">Price: $</div>
+<div class="description">
+<p> Here you should enter a short description of this product.</p>
+</div>
+<a class="button" href="#">Learn More</a> </div>
+</div>
+<div class="pod product-list-item">
+<div class="image"> <a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a> </div>
+<div class="details" >
+<h3><a href="#">Product Name</a></h3>
+<div class="price">Price: $</div>
+<div class="description">
+<p> Here you should enter a short description of this product.</p>
+</div>
+<a class="button" href="#">Learn More</a> </div>
+</div>
+<div class="pod product-list-item">
+<div class="image"> <a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a> </div>
+<div class="details" >
+<h3><a href="#">Product Name</a></h3>
+<div class="price">Price: $</div>
+<div class="description">
+<p> Here you should enter a short description of this product.</p>
+</div>
+<a class="button" href="#">Learn More</a> </div>
+</div>
+<!-- pagination -->
+<div class="pagination bottom">
+<div class="previous"> <span class="disabled">&laquo; Previous</span> </div>
+<div class="pages"> Page: <a href="#" class="selected">1</a></div>
+<div class="next"> <span class="disabled">Next &raquo;</span> </div>
+</div>
+</div>
+</div><!-- TemplateEndEditable -->
+</div>
+
+<!-- footer -->
+<div id="footer-wrapper">
+<div id="footer" class="content">
+<ul>
+<li class="first"><a href="#" rel="">FAQ</a></li><li class=""><a href="#" rel="">Privacy Policy</a></li><li><a href="#" rel="">Terms of Use</a></li>
+<li class="last"><a href="http://www.webassist.com?RID=19" rel="">Free Dreamweaver template by WebAssist</a></li></ul>
+</div>
+</div>
+<!-- TemplateBeginEditable name="end" --><!-- TemplateEndEditable -->
+</body>
+</html>

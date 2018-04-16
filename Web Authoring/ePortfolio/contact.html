@@ -1,0 +1,90 @@
+<!DOCTYPE html>    <!-- HTML5 -->
+ <html>
+	<head>
+		<title>ePortfolio</title>
+		 <link rel="stylesheet" href="css/style.css" /> <!-- link to css stylesheet style.css -->
+	</head>
+	<body>
+	    <div class="wrapper"> <!-- Wrapper for webpage set at 940px  in style.css-->
+
+			<header> <!-- start of header -->
+			<h2> <img src="images/eport.png"/> </h2>
+			</header> <!-- /header -->
+
+			<nav> <!-- start of navigation -->
+			    <ul>
+				<li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Me</a></li>
+                    <li><a href="contact.html">Contact Me</a></li>
+			        <li><a href="cv.pdf">My CV</a></li>
+				</ul>
+			</nav> <!--/navigation -->
+
+			<section> <!-- start of main page content -->
+				<article><!-- start of article -->
+					<figure>
+						<a href="http://www.facebook.com/thejoeytierney"><img src="images/facebook1.jpg" alt="Facebook"/></a>
+						<figcaption>My Facebook</figcaption>
+					</figure>
+					<h2>Contact Information</h2>
+						<table>
+						<tr>
+						<th>Name</th><td>Joseph Tierney</td>
+						</tr>
+						<th>Email Address</th><td>joeytierney_@hotmail.com</td>
+						</tr>
+						<tr>
+						<th>Mobile</th><td>+353 851577722</td>
+						</tr>
+						</table>
+				</article>  <!--/article -->  
+				<article> <!-- start of article -->
+					<figure>
+						<a href="http://www.twitter.com/TierneyJoey"><img src="images/twitter4.jpg" alt="Twitter"/></a>
+						<figcaption>My Twitter</figcaption>
+					</figure>
+					 
+					  <h2>Your Contact Information</h2>
+						<form method="post" action="submitinfo.html">
+        
+            						<label>Name</label>
+            						<input name="name" >
+							<hr/>
+            
+           						<label>Email</label>
+            						<input name="email" >
+            						<hr/>
+
+							<label>Company Name</label>
+							<input name="name" >
+							<hr/>
+
+							<label>Number</label>
+							<input name="number">
+							<hr/>
+            		
+							<label>Message</label>
+            						<textarea name="message" ></textarea>
+            						<hr/>
+			
+							<div class="buttonHolder">
+            						<input id="submit" name="submit" type="submit" value="Submit">
+							</div>
+
+        						</form>
+						
+						</article> <!--/article -->
+				   
+			</section>  <!-- /main page content -->
+			
+			<aside> <!-- start of aside -->
+			<a class="twitter-timeline" href="https://twitter.com/TierneyJoey" data-widget-id="537321932174401536">Tweets by @TierneyJoey</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</aside> <!--/aside --> 
+			        
+			<footer> <!-- start of footer -->
+			<h3><img src="images/sig.png"/></h3>
+			</footer> <!--/footer --> 
+		</div><!-- /wrapper -->
+	</body>
+</html>

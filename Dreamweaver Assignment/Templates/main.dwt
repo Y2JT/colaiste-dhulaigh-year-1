@@ -1,0 +1,77 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link id="main-css" href="../css/main.css" rel="stylesheet" />
+<!-- TemplateBeginEditable name="head" -->
+<meta http-equiv="description" content="">
+<meta http-equiv="keywords" content="">
+<!-- TemplateEndEditable -->
+</head>
+<body class="products_results">	
+<!-- header -->
+<div id="header-wrapper">
+<div id="header" class="content">
+<div class="logo">
+<a href="#"><img id="header-logo" alt="My Site" src="../images/logo.png" /></a>
+</div>
+</div>
+</div>
+
+<!-- main menu -->
+<div id="top-wrapper">
+<div id="top" class="content">
+  <ul id="top-menu">
+  <li class="first"><a href="index.html" rel="">Home</a></li>
+<li><!-- TemplateBeginEditable name="Link1" --><a href="cork.html">Cork</a><!-- TemplateEndEditable -->
+<li><!-- TemplateBeginEditable name="Link2" --><a href="dublin.html">Dublin</a><!-- TemplateEndEditable --></li>
+<li><!-- TemplateBeginEditable name="Link3" --><a href="galway.html">Galway</a><!-- TemplateEndEditable --></li>
+<li><!-- TemplateBeginEditable name="Link4" --><a href="tradbands.html">Traditional Bands</a><!-- TemplateEndEditable --></li>
+</ul>
+</div>
+</div>
+
+<div id="content" class="content">
+  <div id="page">
+</div>
+<!-- products -->
+<div class="pod product-list-item">
+<div class="image"><!-- TemplateBeginEditable name="Image1" --><a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a><!-- TemplateEndEditable --></div>
+<div class="details" >
+<h3><!-- TemplateBeginEditable name="Heading1" -->music history<!-- TemplateEndEditable --></h3>
+<div class="description"><!-- TemplateBeginEditable name="Info1" -->
+  <p>Info about county's music history.</p>
+<!-- TemplateEndEditable --></div>
+</div>
+</div>
+<div class="pod product-list-item">
+<div class="image"><!-- TemplateBeginEditable name="Image2" --><a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a><!-- TemplateEndEditable --></div>
+<div class="details" >
+<h3><!-- TemplateBeginEditable name="Heading2" -->Music Events <!-- TemplateEndEditable --></h3>
+<div class="description"><!-- TemplateBeginEditable name="Info2" -->
+  <p>Enter music events here.</p>
+<!-- TemplateEndEditable --></div>
+</div>
+</div>
+<div class="pod product-list-item">
+<div class="image"><!-- TemplateBeginEditable name="Image3" --><a href="#"><img src="../images/placeholder.png" alt="" width="140" height="140" border="0" class="WADAResultThumb" title="" /></a><!-- TemplateEndEditable --></div>
+<div class="details" >
+<h3><!-- TemplateBeginEditable name="Heading3" -->Trad Bands in Cork<!-- TemplateEndEditable --></h3>
+<div class="description"><!-- TemplateBeginEditable name="Info3" -->
+  <p> Enter info on trad bands</p>
+<!-- TemplateEndEditable --></div>
+</div>
+</div>
+<!-- pagination --></div>
+</div>
+
+<!-- footer -->
+<div id="footer-wrapper">
+<a href="#" rel="">&copy; Joseph Tierney</a>
+</div>
+</div>
+</body>
+</html>
